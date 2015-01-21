@@ -8,5 +8,6 @@ namespace Tests.Main
 {
     public class Class1
     {
+
     }
 }
